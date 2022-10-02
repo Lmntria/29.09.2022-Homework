@@ -570,3 +570,28 @@ font-size: 18px;
   height: 72px;
   border: 1px solid silver;
 }
+.residental-bck{
+  background-image: url(https://logicsforest.com/themeforest/idea-homes/ideahomes_demo_files/images/paralax-half.jpg);
+  border: none;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 70vh;
+}
+.right-layer{
+  width: 50%;
+  margin-left: 50%;
+  background-color:rgba(237, 42, 40, .9);
+  height: 70vh;
+}
+.res i{
+  font-size: 50px;
+}
+.res h3{
+  font-size: 32px;
+  color: white;
+}
+.res span{
+  color: white;
+  font-size: 16px;
+}
