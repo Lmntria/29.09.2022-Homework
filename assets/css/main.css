@@ -609,3 +609,41 @@ font-size: 18px;
 #his:hover i{
   padding-bottom: 10px;
 }
+.proper-head h2{
+  color:black;
+  font-style: normal;
+  font-size: 32px;
+}
+.proper-head h2 span{
+  color:red
+}
+.proper-head p{
+  color: gray;
+  font-weight: 18px;
+}
+.pro-img-wid img{
+  width: 110%;
+}
+.pro-square{
+  background-color: white;
+  height: 235px;
+  width: 296px;
+  margin-left:45%;
+}
+.pro-bck-img{
+  background-image: url(https://logicsforest.com/themeforest/idea-homes/ideahomes_demo_files/images/b-d-property.jpg);
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 560px;
+  height: 368px;
+  position: relative;
+}
+.pro-h4{
+  font-weight: lighter;
+  letter-spacing: 0.5px;
+  font-size: 20px;
+}
+.pro-button{
+  
+}
