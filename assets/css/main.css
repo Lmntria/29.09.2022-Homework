@@ -586,6 +586,8 @@ font-size: 18px;
 }
 .res i{
   font-size: 50px;
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
 .res h3{
   font-size: 32px;
@@ -594,4 +596,16 @@ font-size: 18px;
 .res span{
   color: white;
   font-size: 16px;
+}
+#land:hover i{
+  padding-bottom: 10px;
+}
+#tie:hover i{
+  padding-bottom: 10px;
+}
+#office:hover i{
+  padding-bottom: 10px;
+}
+#his:hover i{
+  padding-bottom: 10px;
 }
